@@ -5,10 +5,6 @@ Assignment: Introduction to Python
 Instructions:
 Answer the following questions based on your understanding of Python programming. Provide detailed explanations and examples where appropriate.
 
-Important things to note:
-
-Please note that any answers in italics are either fully or partially from ChatGPT.
-
 Questions:
 
 ## 1. Python Basics
